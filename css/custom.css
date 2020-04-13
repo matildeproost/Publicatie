@@ -83,8 +83,9 @@ div.gallery img {
 
 div.gallery2 img {
   width: 22vw;
+  height: auto;
+  max-height: 350px;
   position: relative;
-  top: 120px;
 }
 
 div.desc {
@@ -93,12 +94,6 @@ div.desc {
   max-width: 22vw;
 }
 
-div.desc3 {
-  padding: 15px;
-  text-align: center;
-  max-width: 22vw;
-  position: relative;
-  top: 120px;
 }
 
 div.desc2 {
