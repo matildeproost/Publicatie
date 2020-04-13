@@ -1,0 +1,9 @@
+@media only screen
+and (min-width : 321px) {
+  background-image: url("../images/carpet/1.jpg");
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#homesection .navbar{padding-top:2.2vh;padding-bottom:2.2vh;}

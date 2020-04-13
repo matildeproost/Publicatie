@@ -1,0 +1,8 @@
+a:link, a:visited {
+  background-color: transparent;
+  color: transparent;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
